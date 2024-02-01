@@ -1,0 +1,22 @@
+{
+  "name": "mymodyle",
+  "version": "1.0.0",
+  "description": "my hw import export",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman13rus/Module.git"
+  },
+  "keywords": [
+    "import"
+  ],
+  "author": "Roman Rogachev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman13rus/Module/issues"
+  },
+  "homepage": "https://github.com/Roman13rus/Module#readme"
+}
